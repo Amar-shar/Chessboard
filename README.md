@@ -10,7 +10,8 @@ This project is a basic chessboard, created entirely using HTML.
 The purpose of this project is to demonstrate how to create a simple chessboard layout using only HTML without relying on CSS or JavaScript.
 
 # File Structure
-index.html: Contains the complete chessboard structure.
+- index.html: 
+  Contains the complete chessboard structure.
 
 # How to View the Chessboard
 - Download or clone the repository to your local machine.
